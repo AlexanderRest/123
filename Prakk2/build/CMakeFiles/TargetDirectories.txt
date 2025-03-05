@@ -1,0 +1,3 @@
+/home/sa/Prakk2/build/CMakeFiles/rebuild_cache.dir
+/home/sa/Prakk2/build/CMakeFiles/my_utility.dir
+/home/sa/Prakk2/build/CMakeFiles/edit_cache.dir
